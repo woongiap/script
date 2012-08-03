@@ -12,6 +12,7 @@ int fun2()
 	line 1
 	add this in master
 	line 2
+	add this in newb
 }
 
 int fun3()
