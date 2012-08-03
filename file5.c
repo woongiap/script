@@ -17,5 +17,6 @@ int fun2()
 int fun3()
 {
 	line 1
+	add this in newb1
 }
 
