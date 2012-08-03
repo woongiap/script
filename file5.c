@@ -21,3 +21,8 @@ int fun3()
 	add this in newb1
 }
 
+main()
+{
+	main function
+}
+
