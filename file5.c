@@ -12,3 +12,8 @@ int fun2()
 	line 2
 }
 
+int fun3()
+{
+	line 1
+}
+
