@@ -3,6 +3,7 @@ newb1 file 5
 int fun1()
 {
 	line 1
+	add this in newb1
 	line 2
 }
 
