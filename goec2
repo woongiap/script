@@ -1,0 +1,3 @@
+#!/bin/bash
+# public dns: ec2-54-243-133-14.compute-1.amazonaws.com
+ssh -i woongiap.pem ubuntu@54.243.133.14
